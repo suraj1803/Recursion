@@ -1,4 +1,4 @@
-package recursion;
+package recursion_backtracking_1;
 
 import java.util.Scanner;
 

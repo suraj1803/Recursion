@@ -1,4 +1,4 @@
-package recursion;
+package recursion_backtracking_1;
 
 public class MaxOfArray {
     public static void main(String[] args) {

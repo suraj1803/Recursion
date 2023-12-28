@@ -1,4 +1,4 @@
-package recursion;
+package recursion_backtracking_1;
 
 public class PrintArrayInReverse {
     public static void main(String[] args) {
